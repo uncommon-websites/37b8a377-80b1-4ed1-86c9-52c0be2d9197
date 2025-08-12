@@ -11,32 +11,32 @@
 	// Constants
 	const values = [
 		{
-			title: "Innovation",
-			description: "Constantly challenging the status quo to create better solutions."
+			title: "Legal excellence",
+			description: "Combining elite legal expertise with military-grade engineering to deliver AI that understands complex legal workflows."
 		},
 		{
-			title: "Integrity",
-			description: "Building trust through transparent actions and honest communication."
+			title: "Attorney-client privilege",
+			description: "Building security and confidentiality into every system component with single-tenant architecture and end-to-end encryption."
 		},
 		{
-			title: "Impact",
-			description: "Measuring our success by the positive change we create for our clients."
+			title: "Measurable impact",
+			description: "Delivering 2.7 hours of daily time savings while transforming fragmented legal knowledge into actionable intelligence."
 		}
 	];
 </script>
 
 <SecondaryHero
-	title="Decisions made faster"
-	subtitle="Because the ocean doesn't wait"
-	imageSrc="/generated/image-a-diverse-maritime-team-collaborating-in.webp"
+	title="Legal expertise meets AI precision"
+	subtitle="Because fund closings can't wait"
+	imageSrc="/generated/image-a-legal-team-is-collaborating-in-a-moder.webp"
 />
 
 <!-- Story Section -->
 <Story
 	paragraphs={[
-		"It started with a simple question from a veteran logistics operator: \"Why are we still planning routes like it's 1999?\" Our team saw global fleets losing millions every year because of slow data, static routing models, and manual decision-making. Vessels were stuck in delays they could have avoided—if only the systems they relied on moved as fast as the ocean itself.",
-		"Navys closes that gap. We process fresh satellite imagery, AIS signals, and real-time weather patterns through predictive algorithms to deliver instant routing recommendations. When tested with mid-market operators, our platform reduced inefficiencies by up to 22%. Our edge comes from deep maritime operations experience combined with unmatched geospatial data fluency—so the system thinks like a mariner and moves like a machine.",
-		"Navys now powers smarter, faster decisions across a growing network of 50,000 tracked vessels. We're becoming the operating layer for real-time fleet visibility, contract compliance, and zero-downtime optimization. Our mission is simple: transform maritime logistics for a $150B shipping market that's ready for intelligent infrastructure—vessel by vessel, region by region."
+		"It started with a simple question from a fund formation partner at Kirkland & Ellis: \"Why are we still drafting fund documents like it's 1999?\" Our founding team saw elite law firms losing millions in billable efficiency because of manual legal processes, static research methods, and repetitive drafting. Lawyers were spending 60+ hours per week on work that delayed fund closings—if only the systems they relied on understood complex legal workflows.",
+		"Navys closes that gap. We combine specialized legal AI trained on fund formation expertise with live market intelligence to deliver expert legal responses instantly. Our founding team brings together Amr Jomaa's $50bn+ fund formation experience at Kirkland & Ellis and Cleary Gottlieb, Keith Hickman's military-grade engineering from DoD logistics, and Chanel Bishop's dual perspective as both funds lawyer and financial services regulator. This unique combination creates AI that thinks like an elite lawyer and executes like a precision system.",
+		"Navys now powers faster, smarter legal decisions for fund formation partners at top-tier law firms. We're becoming the intelligence layer for complex legal workflows, regulatory compliance, and expert document generation. Our mission is simple: transform the $18.5B legal services market by delivering 2.7 hours of daily time savings to funds lawyers—one firm at a time, one fund at a time."
 	]}
 />
 
@@ -45,7 +45,7 @@
 
 <!-- CTA Section -->
 <CallToAction
-	title="Ready to collaborate?"
-	subtitle="Let's create something amazing"
-	description="Join the companies already leveraging our expertise to transform their digital presence and achieve their business goals."
+	title="Ready to transform your fund formation practice?"
+	subtitle="Let's revolutionize legal workflows"
+	description="Join the elite law firms already leveraging our specialized legal AI to deliver expert fund documents faster while reclaiming strategic thinking time for complex deals."
 />
