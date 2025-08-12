@@ -26,20 +26,17 @@
 </script>
 
 <SecondaryHero
-	generating
-	title="Solving world hunger"
-	subtitle="one step at a time"
-	imageSrc="https://www.unc.mn/image-placeholder.svg"
+	title="Decisions made faster"
+	subtitle="Because the ocean doesn't wait"
+	imageSrc="/generated/image-a-diverse-maritime-team-collaborating-in.webp"
 />
 
 <!-- Story Section -->
 <Story
-	generating
 	paragraphs={[
-		"We started in 2018 with a simple goal: make helpful tech that people actually need. While many chase profits, we chose to do things differently.",
-		"Beyond making good products, we care about doing the right thing, being kind to our planet, and making sure everyone can use what we build. That's our compass.",
-		"From day one, we've asked ourselves: 'Does this actually help people?' This question gets us through tough calls and shapes who we are. We're playing the long game here.",
-		"We think about how our work affects real people's lives. We build tech that brings people together, keeps your information safe, and treats everyone fairly. When we stick to these basics, good things happen."
+		"It started with a simple question from a veteran logistics operator: \"Why are we still planning routes like it's 1999?\" Our team saw global fleets losing millions every year because of slow data, static routing models, and manual decision-making. Vessels were stuck in delays they could have avoided—if only the systems they relied on moved as fast as the ocean itself.",
+		"Navys closes that gap. We process fresh satellite imagery, AIS signals, and real-time weather patterns through predictive algorithms to deliver instant routing recommendations. When tested with mid-market operators, our platform reduced inefficiencies by up to 22%. Our edge comes from deep maritime operations experience combined with unmatched geospatial data fluency—so the system thinks like a mariner and moves like a machine.",
+		"Navys now powers smarter, faster decisions across a growing network of 50,000 tracked vessels. We're becoming the operating layer for real-time fleet visibility, contract compliance, and zero-downtime optimization. Our mission is simple: transform maritime logistics for a $150B shipping market that's ready for intelligent infrastructure—vessel by vessel, region by region."
 	]}
 />
 
