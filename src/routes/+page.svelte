@@ -6,25 +6,30 @@
 	import CallToAction from "$lib/components/layout/CallToAction.svelte";
 	import AboutTeaser from "$lib/components/layout/AboutTeaser.svelte";
 	import LogoScroller from "$lib/components/layout/LogoScroller.svelte";
-	import Hero from "$lib/components/layout/hero-sections/Hero.svelte";
+	import CenteredTextOnlyHero from "$lib/components/layout/hero-sections/CenteredTextOnlyHero.svelte";
 </script>
 
-<Hero
-	title="Elevate your business with thoughtful design"
-	subtitle="Solutions that enhance user experience, and improve visual communication."
-	imageSrc="https://www.unc.mn/image-placeholder.svg"
-	generating
+<CenteredTextOnlyHero
+	title="Optimize your maritime routes with real-time ocean intelligence"
+	subtitle="Transform shipping operations with predictive algorithms that process live satellite data to deliver instant route optimization for maximum efficiency and cost savings."
+	imageSrc="/generated/image-a-group-of-diverse-people-engaging-in-a-.webp"
 />
-<LogoScroller label="" generating />
+<LogoScroller 
+	label="Trusted by maritime leaders"
+	logoUrls={[
+		'https://cdn.brandfetch.io/maersk.com/w/400/h/400/logo',
+		'https://cdn.brandfetch.io/cosco.com/w/400/h/400/logo',
+		'https://cdn.brandfetch.io/fedex.com/w/400/h/400/logo',
+		'https://cdn.brandfetch.io/dhl.com/w/400/h/400/logo'
+	]}
+/>
 
 <Summary
-	generating
 	title="What we do"
 	text="Our technology delivers measurable results through secure, adaptable solutions that directly increase productivity and drive growth."
 />
 
 <Testimonials
-	generating
 	testimonials={[
 		{
 			name: "Jane Smith",
@@ -54,7 +59,6 @@
 />
 
 <Features
-	generating
 	title="Features"
 	subtitle="Some features"
 	features={[
@@ -75,5 +79,5 @@
 		}
 	]}
 />
-<AboutTeaser generating />
-<CallToAction generating />
+<AboutTeaser />
+<CallToAction />
